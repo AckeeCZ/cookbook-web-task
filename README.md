@@ -1,16 +1,22 @@
+![Ackee javascript](img/ackee_javascript.jpeg)
+
 # Ackee Cookbook Web Version
 
-Welcome, stranger! Wanna join us at [Ackee][1]? Or you just don't know what to do on a lazy sunday afternoon ?
+Welcome, stranger! 👨🏻‍💻 
+Wanna join us at [Ackee][1]? Or you just don't know what to do on a lazy sunday afternoon ? 🌤 💤
 
 We have a tasty Task for you! Create a JavaScript version of our delicious Ackee recipes. We have everything you need to get you started
 - API (and a running server)
 - Designs
-- Simple React + Redux + Webpack skeleton with all assets
-- Or we recommend to use - https://facebook.github.io/create-react-app/docs/getting-started
+- You can use our old grandpa stack => Simple React + Redux + Webpack skeleton with all assets (deprecated) ⛔️
+- But we highly recommend to use official CRA skeleton from facebook - https://facebook.github.io/create-react-app/docs/getting-started 🙏🏻
+
+- You can look see our libraries and stuff we use at our doc pages - https://frontend-cookbook.ack.ee/#/ 🔥
 
 ## API & Server
 Documentation for the api can be found on [apiary][2] and the
 live server runs at this address [https://cookbook.ack.ee][3]
+Api could be sometimes tricky but I know you can handle it! 🏆
 
 ## Designs
 Application should contain these 3 screens. You can also download a Sketch app file over [here][4]
