@@ -14,8 +14,8 @@ We have a tasty Task for you! Create a JavaScript version of our delicious Ackee
 - You can look see our libraries and stuff we use at our doc pages - https://frontend-cookbook.ack.ee/#/ 🔥
 
 ## API & Server
-Documentation for the api can be found on [apiary][2] and the
-fake api server runs lives here [API][3]
+Documentation for the api can be found on [Apiary][2] and the
+fake api server runs lives here [Fake Api][3]
 You can use both the Apiary or the Fake Api as well - its up to you!
 The data are not persistent between calls (so dont worry that the POST calls are not stored there) :) 
 Api could be sometimes tricky but I know you can handle it! 🏆
@@ -45,6 +45,6 @@ We slightly recommend you to use our React + Redux + Webpack skeleton but you ca
 
 [1]:	https://ackee.cz
 [2]:	http://docs.cookbook3.apiary.io/#introduction/recipes
-[3]:	hhttps://github.com/AckeeCZ/web-task-cookbook-fake-api
+[3]:	https://github.com/AckeeCZ/web-task-cookbook-fake-api
 [4]:	https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/ackee_cookbook.sketch
 [5]:	https://github.com/AckeeCZ/android-cookbook
