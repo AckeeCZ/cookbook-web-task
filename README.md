@@ -15,7 +15,7 @@ We have a tasty Task for you! Create a JavaScript version of our delicious Ackee
 
 ## API & Server
 Documentation for the api can be found on [apiary][2] and the
-fake api server runs lives here [fake-api][3]
+fake api server runs lives here [API][3]
 You can use both the Apiary or the Fake Api as well - its up to you!
 The data are not persistent between calls (so dont worry that the POST calls are not stored there) :) 
 Api could be sometimes tricky but I know you can handle it! 🏆
