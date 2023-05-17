@@ -9,7 +9,7 @@ We have a tasty Task for you! Create a JavaScript version of our delicious Ackee
 - API (and a running server)
 - Designs
 - You can use our old grandpa stack => Simple React + Redux + Webpack skeleton with all assets (deprecated) ⛔️
-- But we highly recommend to use official CRA skeleton from facebook - https://facebook.github.io/create-react-app/docs/getting-started 🙏🏻
+- But we highly recommend to use official Next.js skeleton - https://github.com/AckeeCZ/next-app-template or our previous SPA create-react-app skeleton from facebook - https://facebook.github.io/create-react-app/docs/getting-started 🙏🏻
 - We don't have the designs specific for monitors (we have mobile design only) but I am sure you can handle it by yourself and suprise us with some extra media queries 🖥
 - You can look see our libraries and stuff we use at our doc pages - https://frontend-cookbook.ack.ee/#/ 🔥
 
