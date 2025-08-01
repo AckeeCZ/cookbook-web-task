@@ -5,7 +5,7 @@
 Welcome, stranger! 👨🏻‍💻 
 Wanna join us at [Ackee][1]? Or you just don't know what to do on a lazy sunday afternoon ? 🌤 💤
 
-We have a tasty Task for you! Create a JavaScript version of our delicious Ackee recipes. We have everything you need to get you started
+We have a tasty Task for you! Create a Typescript version of our delicious Ackee recipes. We have everything you need to get you started
 - API (and a running server)
 - Designs
 - You can use our old grandpa stack => Simple React + Redux + Webpack skeleton with all assets (deprecated) ⛔️
