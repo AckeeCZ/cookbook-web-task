@@ -21,7 +21,7 @@ The data are not persistent between calls (so dont worry that the POST calls are
 Api could be sometimes tricky but I know you can handle it! 🏆
 
 ## Designs
-Application should contain these 3 screens. You can also download a Sketch app file over [here][4] (it's old we are sorry, you can import it to Figma ideally)
+Application should contain these 3 screens. You can also download a Sketch app file over [here][4] (it's old we are sorry, you can import it to Figma ideally or just code against the screenshots - no worries)
 
 <img src="https://raw.githubusercontent.com/AckeeCZ/cookbook-web-task/master/screens/01_list.png" width="200">&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/AckeeCZ/cookbook-web-task/master/screens/03_add.png" width="200">&nbsp;
